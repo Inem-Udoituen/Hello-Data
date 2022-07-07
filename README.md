@@ -1,4 +1,4 @@
-# Project name: Hello-Data
+# Project name: Language Learning App
 
 ----
 # Project Objective/Problem Statement: 
